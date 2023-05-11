@@ -2,7 +2,7 @@
 💪 Skills
 Languages
 <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)"/>
-<img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <!--
 **qjatjr1285/qjatjr1285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
